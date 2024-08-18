@@ -1,6 +1,7 @@
 spring:
-   application:
+  application:
     name: user-service
+
   eureka:
     client:
       fetch-registry: true  # Whether the client should fetch the registry from Eureka
